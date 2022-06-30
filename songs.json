@@ -1,5 +1,6 @@
 {
-    "songs":[{
+    "songs":[
+        {
       "songUrl": "https://music.youtube.com/watch?v=BOnxCtKA1VE&feature=share",
       "title": "Namo namo",
       "artist": "Amit TRivedi"
@@ -28,5 +29,6 @@
       "songUrl": "https://music.youtube.com/watch?v=ORrFJ63nlcA&feature=share",
       "title": "Perfect",
       "artist": "Ed Sheeran"
-    }]
+    }
+    ]
   }
